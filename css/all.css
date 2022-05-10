@@ -337,4 +337,7 @@ img {
 .footer ul > li{
   padding: 5px 0;
 }
+.footer img{
+  width: 100%;
+}
 
